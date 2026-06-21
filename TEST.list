@@ -1,5 +1,6 @@
 IP-CIDR,142.251.215.0/24,no-resolve
 
+DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,pingip.cn
 DOMAIN-SUFFIX,yalala.com
 DOMAIN-SUFFIX,whois.pconline.com.cn
